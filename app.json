@@ -9,7 +9,7 @@
     ],
     "repository": "https://github.com/MyLoveMoon/Restrict",
     "website": "",
-    "success_url": "https://t.me/DroneBots",
+    "success_url": "https://t.me/rjbr0",
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
